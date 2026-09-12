@@ -1,3 +1,5 @@
+package Week1.ClassProblems;
+
 import java.util.*;
 
 public class FirstNonRepeatingCharacter {
